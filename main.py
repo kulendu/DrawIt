@@ -31,6 +31,7 @@ while True:
     feed = cv2.cvtColor(cam_frame, cv2.COLOR_BGR2HSV)   # converting the color(BGR) to HSV.
 
 
+
     cv2.imshow("Canvas", cam_frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
