@@ -19,3 +19,6 @@ DrawIt is a screen on air that allows you to write/draw anything while just wavi
 
 ## Working: 
 ![](GIF-201230_151438.gif)
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kulendu/DrawIt/LICENSE.md)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/kulendu/DrawIt/)
