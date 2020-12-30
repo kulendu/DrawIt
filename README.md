@@ -1,6 +1,6 @@
 # DrawIt
 
-DrwaIt is a screen on air that allows you to write/draw anything while just waving your fingers over the screen. 
+DrawIt is a screen on air that allows you to write/draw anything while just waving your fingers over the screen. 
 
 ## Benifits of DrwaIt: 
 * Allows user to draw/write anything out of the it imagination anytime. 
