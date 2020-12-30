@@ -8,9 +8,13 @@ DrawIt is a screen on air that allows you to write/draw anything while just wavi
 * If used wisely can make education more interesting and we can do much more cool things out of it. 
 
 ## Getting started :
-1. `cd DrawIt`
-2. `python3 main.py`
-3. Create your own imagination. 
+* ```cd DrawIt```
+* ```python3 main.py```
+* Create your own imagination. 
 
-## Working :
+## Packages used:
+* `numpy`
+* `collections`
+* `open-cv`
 
+## Working: 
