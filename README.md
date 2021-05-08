@@ -14,15 +14,15 @@ cd DrawIt
 ```shell
 python3 main.py
 ```
-```Up and Running 💨, now enjoy with ypur hands``` 
+```Up and Running 💨, now enjoy with your hands``` 
 
 
 
 
 ## 🎁 Packages used:
-* `numpy`
-* `collections`
-* `open-cv`
+* [`Numpy`](https://github.com/numpy/numpy)
+* [`collections`](https://docs.python.org/3/library/collections.html)
+* [`open-cv`](https://github.com/opencv/opencv-python)
 
 ## 🔴 Live Demo: 
 ![](GIF-201230_151438.gif)
