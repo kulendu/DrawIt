@@ -8,16 +8,23 @@ DrawIt ✏ is a screen on air that allows you to write/draw anything while just 
 * If used wisely can make education more interesting and we can do much more cool things out of it. 
 
 ## 🏁 Getting started :
-* ```cd DrawIt```
-* ```python3 main.py```
-* Create your own imagination. 
+```shell 
+cd DrawIt
+```
+```shell
+python3 main.py
+```
+```Up and Running 💨, now enjoy with ypur hands``` 
+
+
+
 
 ## 🎁 Packages used:
 * `numpy`
 * `collections`
 * `open-cv`
 
-## Live Demo: 
+## 🔴 Live Demo: 
 ![](GIF-201230_151438.gif)
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kulendu/DrawIt/LICENSE.md)
